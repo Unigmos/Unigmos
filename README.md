@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://github.com/motimoti-dev">
+<a href="https://github.com/Unigmos">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true" />
 </a>
-<a href="https://github.com/motimoti-dev?tab=repositories">
+<a href="https://github.com/Unigmos?tab=repositories">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true" />
 </a>
 <!--
