@@ -16,11 +16,13 @@
 
 <h2>GitHubはいいぞ！</h2>
 サークル活動の一環でGitHub使っている。<br>
-ブログ開発とかの合間にちょびちょび更新＿。
+ブログ開発「 http://blog.sumahotektek.com/ 」とかの合間にちょびちょび更新＿。
 
 <h2>プログラムのお話</h2>
 HTMLとかPythonとかをメインにプログラム組んでます。<br>
-JavaScriptとかやってみたいと思ってるけど、手が出せない…
+JavaScriptとかgoとかやってみたいと思ってるけど、手が出せない…
+
+
 
 <!--
 **Unigmos/Unigmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
