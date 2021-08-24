@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 👋
 
 <p>
   <a href="https://twitter.com/shaneron_kijo" target="_blank">
@@ -15,7 +15,7 @@
 
 
 <h2>GitHubはいいぞ！</h2>
-サークル活動の一環でGitHub使っている。<br>
+サークル活動の一環でGitHub使っています。<br>
 ブログ開発「 http://blog.sumahotektek.com/ 」とかの合間にちょびちょび更新＿。
 
 <h2>プログラムのお話</h2>
