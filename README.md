@@ -1,9 +1,9 @@
 ### 👋 Hi there 👋
 
 <p>
-  <a href="https://twitter.com/shaneron_kijo" target="_blank">
+  <!--<a href="https://twitter.com/shaneron_kijo" target="_blank">
     <img alt="Twitter: shaneron_kijo" src="https://img.shields.io/twitter/follow/shaneron_kijo.svg?style=social" />
-  </a>
+  </a>-->
 </p>
 
 <a href="https://github.com/Unigmos">
