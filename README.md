@@ -16,7 +16,7 @@
 
 <h2>GitHubはいいぞ！</h2>
 サークル活動の一環でGitHub使っています。<br>
-ブログ開発「 http://blog.sumahotektek.com/ 」とかの合間にちょびちょび更新＿。
+ブログ開発「 https://blog.sumahotektek.com/ 」とか「 https://it.sumahotektek.com/ 」の合間にちょびちょび更新＿。
 
 <h2>プログラムのお話</h2>
 HTMLとかPythonとかをメインにプログラム組んでます。<br>
