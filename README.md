@@ -19,7 +19,19 @@
   </a>
 </div>
 
-<h2>GitHubはいいぞ！</h2>
+<h3>Languages and tools</h3>
+<div>
+  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px">
+  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px">
+  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
+  <img align="top" src="https://api.iconify.design/logos-hugo.svg" width="50px" height="50px">
+</div>
+
+<!---
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+--->
+
+<h2>このアカウントについて</h2>
 サークル活動の一環でGitHub使っています。<br>
 ブログ開発「 https://blog.sumahotektek.com/ 」とか「 https://it.sumahotektek.com/ 」の合間にちょびちょび更新＿。
 
