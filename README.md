@@ -13,7 +13,7 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true" />
 </a>
 
-<div align="center">
+<div align="">
   <a href="https://github.com/Unigmos">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Unigmos&theme=gruvbox&rank=A,B" />
   </a>
