@@ -14,9 +14,7 @@
 </a>
 
 <div align="">
-  <a href="https://github.com/Unigmos">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Unigmos&theme=gruvbox&rank=A,B" />
-  </a>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Unigmos&theme=gruvbox&rank=A,B" />
 </div>
 
 <h3>Languages and tools</h3>
@@ -37,7 +35,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <h2>プログラムのお話</h2>
 HTMLとかPythonとかをメインにプログラム組んでます。<br>
-JavaScriptとかgoとかやってみたいと思ってるけど、手が出せない…
+なんかいい感じのライブラリないかなと迷走中。おすすめあったら教えてください。<br>
 
 
 
