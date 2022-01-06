@@ -20,7 +20,7 @@
 </div>
 
 <h3>Languages and tools</h3>
-<div>
+<div style="background-color:white;">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
