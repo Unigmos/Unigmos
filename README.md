@@ -13,6 +13,11 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true" />
 </a>
 
+<div align="center">
+  <a href="https://github.com/Unigmos">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Unigmos&theme=gruvbox&rank=A,B" />
+  </a>
+</div>
 
 <h2>GitHubはいいぞ！</h2>
 サークル活動の一環でGitHub使っています。<br>
