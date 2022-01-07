@@ -14,7 +14,7 @@
 </a>
 
 <div align="">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Unigmos&theme=gruvbox&rank=A,B" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Unigmos&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 <h3>Languages and tools</h3>
