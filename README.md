@@ -36,6 +36,9 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 HTMLとかPythonとかをメインにプログラム組んでます。<br>
 なんかいい感じのライブラリないかなと迷走中。おすすめあったら教えてください。<br>
 
+<h2>作成したサイト</h2>
+https://it.sumahotektek.com/ : IT関連<br>
+https://blog.sumahotektek.com/ : 雑記
 
 
 <!--
