@@ -6,11 +6,22 @@
   </a>--->
 </p>
 
-<a href="https://github.com/Unigmos">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&theme=city_lights" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&langs_count=10&layout=compact" />
-</a>
-
+<table>
+  <a href="https://github.com/Unigmos">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&theme=city_lights" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&langs_count=10&layout=compact" />
+      <td>
+    </tr>
+  </a>
+</table>
+<!---
+<img src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&theme=city_lights" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&langs_count=10&layout=compact" />
+--->
 <div align="">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Unigmos&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B" />
 </div>
