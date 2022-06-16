@@ -31,7 +31,6 @@
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
-  <img align="top" src="https://api.iconify.design/logos-hugo.svg" width="50px" height="50px">
   <img align="top" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50px" height="50px">
   <img align="top" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px" height="50px">
