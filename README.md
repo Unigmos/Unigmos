@@ -49,8 +49,21 @@ HTMLとかPythonとかをメインにプログラム組んでます。<br>
 なんかいい感じのライブラリないかなと迷走中。おすすめあったら教えてください。<br>
 
 <h2>作成したサイト</h2>
-https://it.sumahotektek.com/ : IT関連<br>
-https://blog.sumahotektek.com/ : 雑記
+<table>
+  <thead>
+    <tr>
+      <th align="left"><a href="https://it.sumahotektek.com/">Itract</a></th>
+      <th align="left"><a href="https://blog.sumahotektek.com/">すまてくブログ</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><img align="top" src="https://user-images.githubusercontent.com/77985354/180349332-b4c0080c-0416-4e1e-af2c-4b080c8dd90c.png" width="256px" height="144px"></th>
+      <th><img align="top" src="https://placehold.jp/256x144.png"></th>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <!--
