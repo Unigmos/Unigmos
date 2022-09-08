@@ -34,6 +34,7 @@
   <img align="top" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50px" height="50px">
   <img align="top" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px" height="50px">
+  <img align="top" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50px" height="50px">
 </div>
 
 <!---
