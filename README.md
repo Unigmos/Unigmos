@@ -63,8 +63,8 @@ HTMLとかPythonとかをメインにプログラム組んでます。<br>
   <tbody>
     <tr>
       <th><img align="top" src="https://user-images.githubusercontent.com/77985354/180349332-b4c0080c-0416-4e1e-af2c-4b080c8dd90c.png" width="256px" height="144px"></th>
-      <th><img align="top" src="https://placehold.jp/256x144.png"></th>
-      <th><img align="top" src="https://placehold.jp/256x144.png"></th>
+      <th><img align="top" src="https://github.com/Unigmos/Li-fest/blob/main/public/image/Li-fest_no_image.png" width="256px" height="144px"></th>
+      <th><img align="top" src="https://github.com/Unigmos/Li-fest/blob/main/public/image/Li-fest_no_image.png" width="256px" height="144px"></th>
     </tr>
   </tbody>
 </table>
