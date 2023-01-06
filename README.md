@@ -57,13 +57,26 @@ HTMLとかPythonとかをメインにプログラム組んでます。<br>
     <tr>
       <th align="left"><a href="https://it.sumahotektek.com/">Itract</a></th>
       <th align="left"><a href="https://blog.sumahotektek.com/">すまてくブログ</a></th>
-      <th align="left"><a href="https://shaneron.com/">個人サイト(現在制作中)</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th><img align="top" src="https://user-images.githubusercontent.com/77985354/180349332-b4c0080c-0416-4e1e-af2c-4b080c8dd90c.png" width="256px" height="144px"></th>
       <th><img align="top" src="https://github.com/Unigmos/Li-fest/blob/main/public/image/Li-fest_no_image.png" width="256px" height="144px"></th>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left"><a href="https://li-fest.com/">Li-fest</a></th>
+      <th align="left"><a href="https://shaneron.com/">個人サイト(現在制作中)</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><img align="top" src="https://user-images.githubusercontent.com/77985354/180349332-b4c0080c-0416-4e1e-af2c-4b080c8dd90c.png" width="256px" height="144px"></th>
       <th><img align="top" src="https://github.com/Unigmos/Li-fest/blob/main/public/image/Li-fest_no_image.png" width="256px" height="144px"></th>
     </tr>
   </tbody>
