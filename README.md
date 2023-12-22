@@ -15,7 +15,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&theme=city_lights" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&langs_count=10&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&langs_count=14&layout=compact" />
       <td>
     </tr>
   </a>
