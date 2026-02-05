@@ -6,9 +6,7 @@
   </a>--->
 </p>
 
-![](https://komarev.com/ghpvc/?username=Unigmos)
-
-<table>
+<!-- <table>
   <a href="https://github.com/Unigmos">
     <tr>
       <td>
@@ -19,33 +17,30 @@
       <td>
     </tr>
   </a>
-</table>
+</table> -->
 <!---
 <img src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&theme=city_lights" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&langs_count=10&layout=compact" />
 --->
-<div align="">
+<!-- <div align="">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Unigmos&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B" />
-</div>
+</div> -->
 
 <h3>Languages and tools</h3>
 <div style="background-color:white;">
+  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
-  <img align="top" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50px" height="50px">
+  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" height="50px">
   <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50px" height="50px">
   <img align="top" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px" height="50px">
-  <img align="top" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50px" height="50px">
+  <img align="top" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px" height="50px">
 </div>
 
 <!---
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 --->
-
-<h2>このアカウントについて</h2>
-サークル活動の一環でGitHub使っています。<br>
-ブログ開発「 https://blog.sumahotektek.com/ 」とか「 https://it.sumahotektek.com/ 」の合間にちょびちょび更新＿。
 
 <h2>プログラムのお話</h2>
 HTMLとかPythonとかをメインにプログラム組んでます。<br>
