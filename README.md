@@ -1,82 +1,48 @@
-<img align="top" src="https://user-images.githubusercontent.com/77985354/148340358-a15c4adc-12eb-4eef-910c-d6fe4a7c78c8.png">
+<div align="center">
 
-<p>
-  <!---<a href="https://twitter.com/shaneron_kijo" target="_blank">
-    <img alt="Twitter: shaneron_kijo" src="https://img.shields.io/twitter/follow/shaneron_kijo.svg?style=social" />
-  </a>--->
-</p>
+<img src="https://user-images.githubusercontent.com/77985354/148340358-a15c4adc-12eb-4eef-910c-d6fe4a7c78c8.png" width="100%">
 
-<!-- <table>
-  <a href="https://github.com/Unigmos">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&theme=city_lights" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&langs_count=14&layout=compact" />
-      <td>
-    </tr>
-  </a>
-</table> -->
-<!---
-<img src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&theme=city_lights" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true&langs_count=10&layout=compact" />
---->
-<!-- <div align="">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Unigmos&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B" />
-</div> -->
+<br>
 
-<h3>Languages and tools</h3>
-<div style="background-color:white;">
-  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50px" height="50px">
-  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px">
-  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px">
-  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
-  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" height="50px">
-  <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50px" height="50px">
-  <img align="top" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px" height="50px">
-  <img align="top" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px" height="50px">
+バックエンドエンジニア。なんかいい感じのライブラリを日々探索中。<br>
+おすすめのライブラリ・ツールがあればぜひ教えてください。
+
 </div>
 
-<!---
-https://rahuldkjain.github.io/gh-profile-readme-generator/
---->
+<br>
 
----
-<p>バックエンドエンジニア<br></p>
-<p>なんかいい感じのライブラリないかなと迷走中。おすすめあったら教えてください。<br></p>
+## 🛠 Languages & Tools
 
-<h2>作成したサイト</h2>
-<table>
-  <thead>
-    <tr>
-      <th align="left"><a href="https://omningest.com/">Omningest</a></th>
-      <th align="left"><a href="https://unigmos.github.io/tech-out/">技術ブログ</a></th>
-      <th align="left"><a href="https://tools.motisan.info/">もちもち便利Webツール</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th><img align="top" src="https://github.com/Unigmos/Li-fest/blob/main/public/image/Li-fest_no_image.png" width="256px" height="144px"></th>
-      <th><img align="top" src="https://github.com/Unigmos/Li-fest/blob/main/public/image/Li-fest_no_image.png" width="256px" height="144px"></th>
-      <th><img align="top" src="https://user-images.githubusercontent.com/77985354/180349332-b4c0080c-0416-4e1e-af2c-4b080c8dd90c.png" width="256px" height="144px"></th>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
 
-<!--
-**Unigmos/Unigmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</div>
+
+<br>
+
+## 🌐 作成したサイト
+
+<div align="center">
+
+| [Omningest](https://omningest.com/) | [技術ブログ](https://unigmos.github.io/tech-out/) | [もちもち便利Webツール](https://tools.motisan.info/) |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Unigmos/Li-fest/blob/main/public/image/Li-fest_no_image.png" width="256" height="144"> | <img src="https://github.com/Unigmos/Li-fest/blob/main/public/image/Li-fest_no_image.png" width="256" height="144"> | <img src="https://user-images.githubusercontent.com/77985354/180349332-b4c0080c-0416-4e1e-af2c-4b080c8dd90c.png" width="256" height="144"> |
+
+</div>
