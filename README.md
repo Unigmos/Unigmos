@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Unigmos&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unigmos&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img height="165" src="https://github-readme-stats-deploy-peach.vercel.app/api?username=Unigmos&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img height="165" src="https://github-readme-stats-deploy-peach.vercel.app/api/top-langs/?username=Unigmos&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </div>
 
 <br>
